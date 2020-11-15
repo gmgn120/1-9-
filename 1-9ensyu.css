@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  height: 50px;
+  background-color: #ff9a4b;
+  margin-bottom: 50px;
+}
+
+main {
+  width: 940px;
+  margin: 0 auto;
+}
+
+.box {
+}
+.box-image {
+  height: 150px;
+}
+
+.box-item {
+  display: inline-block;
+  width: 300px;
+  background-color: #eeeeee;
+}
+
+footer {
+  width: 100%;
+  height: 50px;
+  background-color: #aaaaaa;
+  margin-top: 50px;
+}
